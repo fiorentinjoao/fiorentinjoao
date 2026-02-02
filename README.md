@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fiorentinjoao/fiorentinjoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# João Fiorentin  
+### AI Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Profile  
+AI Developer skilled in building intelligent systems, training and deploying machine learning models, and designing scalable MLOps pipelines. Experienced in deep learning, LLM integration, workflow automation, and cloud-based AI solutions.
+
+---
+
+## Technical Skills  
+
+| Category            | Tools & Technologies                                           |
+|--------------------|----------------------------------------------------------------|
+| Languages           | Python, SQL, R                                                 |
+| Machine Learning    | Scikit-learn, XGBoost, LightGBM                                |
+| Deep Learning       | PyTorch, TensorFlow, Keras, HuggingFace Transformers          |
+| GenAI & LLMs        | LangChain, OpenAI API, Vector Stores, LoRA, RAG Pipelines     |
+| MLOps & Infra       | MLflow, DVC, Docker, Linux, Git, Airflow, Prefect             |
+| Cloud & Big Data    | AWS (S3/Lambda/SageMaker), GCP, BigQuery, Spark               |
+| Visualization       | Power BI, Tableau, Plotly                                      |
+
+---
+
+## GitHub Insights  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaofiorentin&radius=16&theme=nightowl&area=true&order=5&bg_color=blue&point=blue&hide_border=true&hide_title=true" height="250" alt="GitHub activity graph" />
+
+</div>
