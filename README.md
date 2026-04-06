@@ -1,31 +1,51 @@
-<div align="center">
+<h1 align="center">João Fiorentin</h1>
 
-# João Fiorentin  
-### AI Developer
+<p align="center">
+  <b>Data Engineer</b> · Joinville, Santa Catarina 🇧🇷
+</p>
 
----
-
-## Professional Profile  
-AI Developer skilled in building intelligent systems, training and deploying machine learning models, and designing scalable MLOps pipelines. Experienced in deep learning, LLM integration, workflow automation, and cloud-based AI solutions.
-
----
-
-## Technical Skills  
-
-| Category            | Tools & Technologies                                           |
-|--------------------|----------------------------------------------------------------|
-| Languages           | Python, SQL, R                                                 |
-| Machine Learning    | Scikit-learn, XGBoost, LightGBM                                |
-| Deep Learning       | PyTorch, TensorFlow, Keras, HuggingFace Transformers          |
-| GenAI & LLMs        | LangChain, OpenAI API, Vector Stores, LoRA, RAG Pipelines     |
-| MLOps & Infra       | MLflow, DVC, Docker, Linux, Git, Airflow, Prefect             |
-| Cloud & Big Data    | AWS (S3/Lambda/SageMaker), GCP, BigQuery, Spark               |
-| Visualization       | Power BI, Tableau, Plotly                                      |
+<p align="center">
+  <a href="https://linkedin.com/in/joaofiorentin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## GitHub Insights  
+### Sobre mim
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaofiorentin&radius=16&theme=nightowl&area=true&order=5&bg_color=blue&point=blue&hide_border=true&hide_title=true" height="250" alt="GitHub activity graph" />
+Engenheiro de dados com foco em pipelines escaláveis, arquitetura de dados moderna e boas práticas de engenharia de software. Atualmente na **Motorista PX**, construindo soluções de dados que impactam operações em escala nacional.
 
-</div>
+---
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white" />
+</p>
+
+---
+
+### Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [brazillian-ecommerce-lakehouse](https://github.com/fiorentinjoao/brazillian-ecommerce-lakehouse) | Pipeline batch end-to-end com arquitetura Medallion usando dados reais do Olist | Airflow · PySpark · dbt · Delta Lake · MinIO |
+| [realtime-fraud-detection-pipeline](https://github.com/fiorentinjoao/realtime-fraud-detection-pipeline) | Detecção de fraudes em tempo real em transações financeiras simuladas | Kafka · Spark Streaming · PostgreSQL |
+| [dbt-nyc-taxi-analytics](https://github.com/fiorentinjoao/dbt-nyc-taxi-analytics) | Projeto dbt com DuckDB analisando dados de táxi de Nova York — sem cloud | dbt · DuckDB · GitHub Actions |
+| [data-ingestion-cli](https://github.com/fiorentinjoao/data-ingestion-cli) | CLI Python para ingestão de APIs públicas com arquitetura limpa e testes | Python · Typer · SQLAlchemy · pytest |
+| [airflow-best-practices](https://github.com/fiorentinjoao/airflow-best-practices) | 5 DAGs demonstrando padrões modernos do Airflow 2.x | Airflow · TaskFlow · Sensors · SQL Checks |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fiorentinjoao&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiorentinjoao&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
