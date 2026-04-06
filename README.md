@@ -1,7 +1,7 @@
 <h1 align="center">João Fiorentin</h1>
 
 <p align="center">
-  <b>Data Engineer</b> · Joinville, Santa Catarina 🇧🇷
+  <b>Data Engineering</b>
 </p>
 
 <p align="center">
