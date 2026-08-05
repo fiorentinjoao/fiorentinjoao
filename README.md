@@ -1,7 +1,7 @@
 <h1 align="center">João Fiorentin</h1>
 
 <p align="center">
-  <b>Data Engineering</b>
+  <b>Data Engineer</b> · pipelines, arquitetura de dados e boas práticas de engenharia
 </p>
 
 <p align="center">
@@ -14,7 +14,13 @@
 
 ### Sobre mim
 
-Engenheiro de dados com foco em pipelines escaláveis, arquitetura de dados moderna e boas práticas de engenharia de software. Atualmente na **Motorista PX**, construindo soluções de dados que impactam operações em escala nacional.
+Transformo dados brutos em pipelines confiáveis. Atualmente na **Motorista PX**, projeto e
+mantenho arquiteturas de dados que sustentam operações em escala nacional — do ingest ao
+consumo, passando por qualidade, orquestração e observabilidade.
+
+Fora do trabalho, uso projetos pessoais como laboratório: recrio problemas reais de dados
+(fraude, e-commerce, mobilidade) pra testar arquiteturas e ferramentas antes de levá-las
+pra produção.
 
 ---
 
