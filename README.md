@@ -42,10 +42,3 @@ consumo, passando por qualidade, orquestração e observabilidade.
 <p align="center">
   <img src="https://raw.githubusercontent.com/fiorentinjoao/fiorentinjoao/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiorentinjoao&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiorentinjoao&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
