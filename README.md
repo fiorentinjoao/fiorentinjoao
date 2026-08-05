@@ -1,63 +1,30 @@
 <h1 align="center">
-  Olá, eu sou o João <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wave.gif" width="30px" />
+  João Fiorentin <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wave.gif" width="28px" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B5&center=true&vCenter=true&width=560&lines=Data+Engineer;Pipelines+escal%C3%A1veis+%26+arquitetura+de+dados;Airflow+%C2%B7+Spark+%C2%B7+dbt+%C2%B7+Kafka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=808080&center=true&vCenter=true&width=440&lines=Data+Engineer;Pipelines+%26+arquitetura+de+dados" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/joaofiorentin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/joaofiorentin">LinkedIn</a>
 </p>
+
+Engenheiro de dados na **Motorista PX**, construindo pipelines e arquiteturas que sustentam
+operações em escala nacional. Nas horas livres, recrio problemas reais de dados em projetos
+pessoais pra testar ferramentas antes de levá-las pra produção.
+
+**Stack:** Python · Spark · Airflow · dbt · Kafka · PostgreSQL · Docker · Delta Lake
+
+**Projetos:**
+- [brazillian-ecommerce-lakehouse](https://github.com/fiorentinjoao/brazillian-ecommerce-lakehouse) — pipeline Medallion com dados reais do Olist
+- [realtime-fraud-detection-pipeline](https://github.com/fiorentinjoao/realtime-fraud-detection-pipeline) — detecção de fraudes em tempo real
+- [dbt-nyc-taxi-analytics](https://github.com/fiorentinjoao/dbt-nyc-taxi-analytics) — dbt + DuckDB, sem cloud
+- [data-ingestion-cli](https://github.com/fiorentinjoao/data-ingestion-cli) — CLI de ingestão com arquitetura limpa
+- [airflow-best-practices](https://github.com/fiorentinjoao/airflow-best-practices) — padrões modernos do Airflow 2.x
+
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fiorentinjoao/fiorentinjoao/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
----
-
-### Sobre mim
-
-Transformo dados brutos em pipelines confiáveis. Atualmente na **Motorista PX**, projeto e
-mantenho arquiteturas de dados que sustentam operações em escala nacional — do ingest ao
-consumo, passando por qualidade, orquestração e observabilidade.
-
-Fora do trabalho, uso projetos pessoais como laboratório: recrio problemas reais de dados
-(fraude, e-commerce, mobilidade) pra testar arquiteturas e ferramentas antes de levá-las
-pra produção.
-
----
-
-### Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white" />
-</p>
-
----
-
-### Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [brazillian-ecommerce-lakehouse](https://github.com/fiorentinjoao/brazillian-ecommerce-lakehouse) | Pipeline batch end-to-end com arquitetura Medallion usando dados reais do Olist | Airflow · PySpark · dbt · Delta Lake · MinIO |
-| [realtime-fraud-detection-pipeline](https://github.com/fiorentinjoao/realtime-fraud-detection-pipeline) | Detecção de fraudes em tempo real em transações financeiras simuladas | Kafka · Spark Streaming · PostgreSQL |
-| [dbt-nyc-taxi-analytics](https://github.com/fiorentinjoao/dbt-nyc-taxi-analytics) | Projeto dbt com DuckDB analisando dados de táxi de Nova York — sem cloud | dbt · DuckDB · GitHub Actions |
-| [data-ingestion-cli](https://github.com/fiorentinjoao/data-ingestion-cli) | CLI Python para ingestão de APIs públicas com arquitetura limpa e testes | Python · Typer · SQLAlchemy · pytest |
-| [airflow-best-practices](https://github.com/fiorentinjoao/airflow-best-practices) | 5 DAGs demonstrando padrões modernos do Airflow 2.x | Airflow · TaskFlow · Sensors · SQL Checks |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiorentinjoao&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiorentinjoao&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
