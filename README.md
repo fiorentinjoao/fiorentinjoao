@@ -1,13 +1,19 @@
-<h1 align="center">João Fiorentin</h1>
+<h1 align="center">
+  Olá, eu sou o João <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wave.gif" width="30px" />
+</h1>
 
 <p align="center">
-  <b>Data Engineer</b> · pipelines, arquitetura de dados e boas práticas de engenharia
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B5&center=true&vCenter=true&width=560&lines=Data+Engineer;Pipelines+escal%C3%A1veis+%26+arquitetura+de+dados;Airflow+%C2%B7+Spark+%C2%B7+dbt+%C2%B7+Kafka" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/joaofiorentin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fiorentinjoao/fiorentinjoao/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ---
