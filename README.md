@@ -1,11 +1,3 @@
-<h3 align="center">João Fiorentin</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/joaofiorentin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 <pre>
 fiorentinjoao@github
 -------------------------------------
