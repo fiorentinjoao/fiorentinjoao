@@ -10,21 +10,15 @@
 
 ### Sobre mim
 
-- 🔧 **Data Engineer** na Motorista PX
-- 🏗️ Construo e mantenho **pipelines de dados** que sustentam operações em escala nacional
-- 🔄 Atuo do **ingest** ao **consumo**: orquestração, transformação, qualidade e observabilidade
-- 📍 Joinville, SC
+- **Data Engineer** na Motorista PX
+- Construo e mantenho pipelines de dados que sustentam operações em escala nacional
+- Atuo do ingest ao consumo: orquestração, transformação, qualidade e observabilidade
+- Joinville, SC
 
 ---
 
 ### Stack
 
-`Python` · `Spark` · `Airflow` · `dbt` · `PostgreSQL` · `Docker` · `Linux`
-
----
-
-### Atividade
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fiorentinjoao/fiorentinjoao/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,spark,airflow,dbt,postgresql,docker,linux" />
 </p>
