@@ -25,8 +25,6 @@
 
 ### Atividade
 
-Contribuições no GitHub renderizadas como o jogo da cobrinha — cada segmento representa um dia com commits; quanto mais recente e ativo o dia, mais "comida" a cobra consome no grid.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/fiorentinjoao/fiorentinjoao/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
