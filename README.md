@@ -1,4 +1,4 @@
-<h1 align="center">João Fiorentin</h1>
+<h3 align="center">João Fiorentin</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/joaofiorentin">
