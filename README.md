@@ -6,19 +6,21 @@
   </a>
 </p>
 
----
+<pre align="center">
+fiorentinjoao@github
+-------------------------------------
+OS ..................... Linux
+Editor .................. VS Code
+Empresa ................. Motorista PX
+Localização .............. Joinville, SC
+Data Engineering ......... desde 2024
 
-### Sobre mim
+Languages.Core ........... Python
+Languages.Query .......... SQL
+Stack .................... Spark · Airflow · dbt · PostgreSQL · Docker
 
-- **Data Engineer** na Motorista PX
-- Construo e mantenho pipelines de dados que sustentam operações em escala nacional
-- Atuo do ingest ao consumo: orquestração, transformação, qualidade e observabilidade
-- Joinville, SC
-
----
-
-### Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,spark,airflow,dbt,postgresql,docker,linux" />
-</p>
+GitHub Stats
+Repos .................... 10
+Stars .................... 4
+Followers ................ 1
+</pre>
