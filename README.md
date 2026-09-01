@@ -18,8 +18,6 @@
 
 Pipelines de dados em produção com Spark, Airflow e dbt; nas horas vagas, estudo arquitetura e construo projetos pra aprender fazendo.
 
-**Agora:** estudando certificações de dados nas 3 clouds (GCP/AWS/Azure) e escrevendo o [CertFly](https://github.com/fiorentinjoao/certfly) pra estruturar esse estudo.
-
 ---
 
 <p align="center">
