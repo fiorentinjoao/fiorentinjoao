@@ -16,7 +16,7 @@
   <a href="mailto:jjatobaaa@gmail.com"><img src="https://img.shields.io/badge/-Email-333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-Desenho e mantenho pipelines de dados em produção — ingestão, transformação e orquestração com Spark, Airflow e dbt. Fora do trabalho, construo projetos de ponta a ponta pra validar decisões de arquitetura na prática.
+Desenho e mantenho pipelines de dados em produção, ingestão, transformação e orquestração com Spark, Airflow e dbt. Fora do trabalho, construo projetos de ponta a ponta pra validar decisões de arquitetura na prática.
 
 ---
 
