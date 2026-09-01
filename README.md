@@ -21,8 +21,8 @@ Desenho e mantenho pipelines de dados em produção, ingestão, transformação 
 ---
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=fiorentinjoao&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&hide=prs&rank_icon=percentile" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fiorentinjoao&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages" />
+  <img width="400" height="165" src="https://github-stats-extended.vercel.app/api?username=fiorentinjoao&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&hide=prs&rank_icon=percentile" alt="GitHub stats" />
+  <img width="400" height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fiorentinjoao&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&card_width=400" alt="Top languages" />
 </p>
 
 ---
