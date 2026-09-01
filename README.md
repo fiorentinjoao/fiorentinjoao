@@ -23,8 +23,8 @@ Pipelines de dados em produção com Spark, Airflow e dbt; nas horas vagas, estu
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fiorentinjoao&show_icons=true&hide_title=true&hide_border=true&theme=default&hide=prs&rank_icon=percentile" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiorentinjoao&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=fiorentinjoao&show_icons=true&hide_title=true&hide_border=true&theme=default&hide=prs&rank_icon=percentile" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fiorentinjoao&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top languages" />
 </p>
 
 ---
