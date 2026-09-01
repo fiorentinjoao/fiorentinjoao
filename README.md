@@ -21,16 +21,16 @@ Desenho e mantenho pipelines de dados em produção, ingestão, transformação 
 ---
 
 <p align="center">
-  <img width="400" height="165" src="https://github-stats-extended.vercel.app/api?username=fiorentinjoao&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&hide=prs&rank_icon=percentile" alt="GitHub stats" />
-  <img width="400" height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fiorentinjoao&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&card_width=400" alt="Top languages" />
+  <img width="400" height="165" src="https://github-stats-extended.vercel.app/api?username=joaoffiorentin&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&hide=prs&rank_icon=percentile" alt="GitHub stats" />
+  <img width="400" height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaoffiorentin&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&card_width=400" alt="Top languages" />
 </p>
 
 ---
 
 **Selecionados**
 
-- [`certfly`](https://github.com/fiorentinjoao/certfly) — Duolingo para certificações técnicas: SRS + mastery gate por tópico. FastAPI + Flutter.
-- [`brazillian-ecommerce-lakehouse`](https://github.com/fiorentinjoao/brazillian-ecommerce-lakehouse) — pipeline batch ponta a ponta com Airflow, PySpark, dbt e Delta Lake sobre o dataset Olist.
-- [`realtime-fraud-detection-pipeline`](https://github.com/fiorentinjoao/realtime-fraud-detection-pipeline) — detecção de fraude em tempo real com Kafka, Spark Structured Streaming e PostgreSQL.
-- [`airflow-best-practices`](https://github.com/fiorentinjoao/airflow-best-practices) — DAGs de referência pro Airflow 2.x: TaskFlow, dynamic mapping, sensors, branching.
-- [`tecnoiso`](https://github.com/fiorentinjoao/tecnoiso) — app Flutter de TCC pra gestão de equipamentos de medição sob ISO/IEC 17025.
+- [`certfly`](https://github.com/joaoffiorentin/certfly) — Duolingo para certificações técnicas: SRS + mastery gate por tópico. FastAPI + Flutter.
+- [`brazillian-ecommerce-lakehouse`](https://github.com/joaoffiorentin/brazillian-ecommerce-lakehouse) — pipeline batch ponta a ponta com Airflow, PySpark, dbt e Delta Lake sobre o dataset Olist.
+- [`realtime-fraud-detection-pipeline`](https://github.com/joaoffiorentin/realtime-fraud-detection-pipeline) — detecção de fraude em tempo real com Kafka, Spark Structured Streaming e PostgreSQL.
+- [`airflow-best-practices`](https://github.com/joaoffiorentin/airflow-best-practices) — DAGs de referência pro Airflow 2.x: TaskFlow, dynamic mapping, sensors, branching.
+- [`tecnoiso`](https://github.com/joaoffiorentin/tecnoiso) — app Flutter de TCC pra gestão de equipamentos de medição sob ISO/IEC 17025.
